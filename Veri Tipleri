@@ -1,0 +1,6 @@
+//Veri Tipleri (datatypes) 3.ödev
+	
+	double sayi = 12.5;
+	char karakter = 'A';
+	
+	boolean dogruMu = false; 

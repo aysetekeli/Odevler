@@ -1,0 +1,4 @@
+//Değişkenler(Variables) 2. ödev
+	int ogrenciSayisi = 12;
+	String mesaj = "Öğrenci Sayısı: ";
+	System.out.println(mesaj + ogrenciSayisi);
